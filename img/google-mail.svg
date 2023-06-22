@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 78 78"
+   width="39"
+   height="39"
+   version="1.1"
+   id="svg48"
+   sodipodi:docname="google-mail.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs52" />
+  <sodipodi:namedview
+     id="namedview50"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="16.74"
+     inkscape:cx="9.348865"
+     inkscape:cy="19.53405"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg48" />
+  <path
+     fill="#f1bc19"
+     d="m 66,1 c -0.552,0 -1,0.448 -1,1 0,0.552 0.448,1 1,1 0.552,0 1,-0.448 1,-1 0,-0.552 -0.448,-1 -1,-1 z"
+     id="path2" />
+  <path
+     fill="#f3dea3"
+     d="M 39,2 C 18.565,2 2,18.565 2,39 2,59.435 18.565,76 39,76 59.435,76 76,59.435 76,39 76,18.565 59.435,2 39,2 Z"
+     id="path4" />
+  <path
+     fill="#f1bc19"
+     d="m 72,0 c -2.209,0 -4,1.791 -4,4 0,2.209 1.791,4 4,4 2.209,0 4,-1.791 4,-4 0,-2.209 -1.791,-4 -4,-4 z"
+     id="path6" />
+  <path
+     fill="#cd4054"
+     d="m 76,11 c -1.105,0 -2,0.895 -2,2 0,1.105 0.895,2 2,2 1.105,0 2,-0.895 2,-2 0,-1.105 -0.895,-2 -2,-2 z"
+     id="path8" />
+  <path
+     fill="#fbcd59"
+     d="m 70,63 c -1.105,0 -2,0.895 -2,2 0,1.105 0.895,2 2,2 1.105,0 2,-0.895 2,-2 0,-1.105 -0.895,-2 -2,-2 z M 4,48 c -2.209,0 -4,1.791 -4,4 0,2.209 1.791,4 4,4 2.209,0 4,-1.791 4,-4 0,-2.209 -1.791,-4 -4,-4 z"
+     id="path10" />
+  <path
+     fill="#cd4054"
+     d="m 14,74 c -1.105,0 -2,0.895 -2,2 0,1.105 0.895,2 2,2 1.105,0 2,-0.895 2,-2 0,-1.105 -0.895,-2 -2,-2 z"
+     id="path12" />
+  <path
+     fill="#ffffff"
+     d="M 7.5,38 C 6.119,38 5,39.119 5,40.5 5,41.881 6.119,43 7.5,43 8.881,43 10,41.881 10,40.5 10,39.119 8.881,38 7.5,38 Z m 61,-17 C 67.672,21 67,21.672 67,22.5 67,23.328 67.672,24 68.5,24 69.328,24 70,23.328 70,22.5 70,21.672 69.328,21 68.5,21 Z"
+     id="path14" />
+  <path
+     fill="#78a0cf"
+     d="M 25.224,37.245 V 57.878 H 17.061 C 15.367,57.878 14,56.694 14,55 V 28.47 Z"
+     id="path16" />
+  <path
+     fill="#c4211f"
+     d="M 25.224,23 V 37.245 L 14,28.47 v -2.735 c 0,-1.306 0.449,-2.51 1.194,-3.459 1.848,-2.401 5.477,-2.883 7.878,-0.959 z"
+     id="path18" />
+  <polygon
+     fill="#eb4235"
+     points="50,59 36.224,48.245 36.224,34 50,44.755 63.775,34 63.775,48.235 "
+     id="polygon20"
+     transform="translate(-11,-11)" />
+  <path
+     fill="#f1bc19"
+     d="M 64,25.735 V 28.47 L 52.776,37.235 V 23 l 2.153,-1.684 c 1.031,-0.806 2.245,-1.194 3.459,-1.194 3.02,-0.028 5.647,2.537 5.612,5.613 z"
+     id="path22" />
+  <path
+     fill="#9ca74c"
+     d="m 64,28.47 v 26.347 c 0,1.694 -1.367,3.061 -3.061,3.061 H 52.776 V 37.235 Z"
+     id="path24" />
+  <line
+     x1="17.061001"
+     x2="17.061001"
+     y1="52.776001"
+     y2="54.816002"
+     fill="none"
+     stroke="#472b29"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     stroke-width="0.75"
+     id="line26" />
+  <line
+     x1="17.061001"
+     x2="17.061001"
+     y1="46.653"
+     y2="49.714001"
+     fill="none"
+     stroke="#472b29"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     stroke-width="0.75"
+     id="line28" />
+  <line
+     x1="17.061001"
+     x2="17.061001"
+     y1="36.449001"
+     y2="43.534"
+     fill="none"
+     stroke="#472b29"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     stroke-width="0.75"
+     id="line30" />
+  <path
+     fill="none"
+     stroke="#472b29"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     stroke-width="1.4"
+     d="M 25.224,23.236 V 57.877 H 17.061 C 15.37,57.877 14,56.506 14,54.816 V 25.735 c 0,-3.1 2.513,-5.612 5.612,-5.612"
+     id="path32" />
+  <path
+     fill="none"
+     stroke="#472b29"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     stroke-width="1.4"
+     d="M 62.81,22.28 C 60.902,19.838 57.375,19.404 54.932,21.313 L 39,33.76 v 0 L 23.067,21.312 c -2.442,-1.908 -5.969,-1.475 -7.878,0.967"
+     id="path34" />
+  <line
+     x1="40.411999"
+     x2="45.051998"
+     y1="43.001999"
+     y2="39.331001"
+     fill="none"
+     stroke="#472b29"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     stroke-width="0.75"
+     id="line36" />
+  <line
+     x1="34.647999"
+     x2="38.259998"
+     y1="40.675999"
+     y2="43.534"
+     fill="none"
+     stroke="#472b29"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     stroke-width="0.75"
+     id="line38" />
+  <line
+     x1="30.651001"
+     x2="33.047001"
+     y1="37.513"
+     y2="39.409"
+     fill="none"
+     stroke="#472b29"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     stroke-width="0.75"
+     id="line40" />
+  <line
+     x1="28.016998"
+     x2="29.049999"
+     y1="35.429001"
+     y2="36.247002"
+     fill="none"
+     stroke="#472b29"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     stroke-width="0.75"
+     id="line42" />
+  <polyline
+     fill="none"
+     stroke="#472b29"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     stroke-width="1.4"
+     points="25.163,39.6 50,59.004 50,59.004 74.819,39.614"
+     id="polyline44"
+     transform="translate(-11,-11)" />
+  <path
+     fill="none"
+     stroke="#472b29"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     stroke-width="1.4"
+     d="m 58.387,20.123 c 3.1,0 5.612,2.513 5.612,5.612 v 29.081 c 0,1.691 -1.371,3.061 -3.061,3.061 h -8.163 v -34.71"
+     id="path46" />
+</svg>

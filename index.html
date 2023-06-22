@@ -31,185 +31,95 @@
         }
 
         a:hover {
-            color: #ecf0f1;
             text-decoration: none;
             background-color: transparent;
         }
 
-        h5 {
-            text-align:center;
-        }
-
         .card:hover {
-            background-color: #2980b9;
+            background-color: #ecf0f1;
         }
 
         img {
             max-width: 90%;
         }
 
+
+        .card {
+            box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
+        }
+
     </style>
 </head>
 <body>
 
-    <div class="row row-cols-1 g-4 row-cols-md-6">
+    <div id="serie-1" class="row row-cols-1 g-3 row-cols-md-6"></div>
+    <div id="serie-2" class="row row-cols-1 g-3 row-cols-md-6 mt-2"></div>
+ 
+    <script>
+        serie_1_liens = [
+            ['Pronote', 'https://pronote', 'pronote.svg'],
+            ['GLPI', 'https://', 'glpi.svg'],
+            ['Intranet', 'https://', 'intranet.svg'],
+            ['Eduscol', 'https://', 'eduscol.svg'],
+            ['Orion', 'https://', 'orion.svg'],
+            ['Boîte aux lettres AEFE', 'https://', 'bal-aefe.svg'],
+            ['M@gistère', 'https://', 'magistere.svg'],
+            ['Agora Monde', 'https://', 'agora-monde.svg'],
+            ['e-sidoc CDI', 'https://', 'esidoc-cdi.svg'],
+            ['e-sidoc BCD', 'https://', 'esidoc-bcd.svg'],
+            ['Eduka', 'https://', 'eduka.svg'],
+            ['AEFE', 'https://', 'aefe.svg'],
+            ['MENJ', 'https://', 'menj.svg'],
+            ['Réseau Canopé', 'https://', 'canope.svg'],
+            
+            
+        ];
+        serie_2_liens = [
+            ['Gmail', 'https://mail.google.com/', 'google-mail.svg'],
+            ['Agenda', 'https://form.new', 'google-agenda.svg'],
+            ['Google Drive', 'https://doc.new', 'google-drive.svg'],
+            ['Classroom', 'https://doc.new', 'google-classroom.svg'],
+            ['Nouveau Google Doc', 'https://doc.new', 'google-docs.svg'],
+            ['Nouveau Google Sheet', 'https://doc.new', 'google-sheets.svg'],
+            ['Nouveau Google Slide', 'https://sheet.new', 'google-slides.svg'],
+            ['Google Meet', 'https://doc.new', 'google-meet.svg'],
+            
+        ];        
+        serie_1_liens.forEach(lien => {
+            document.getElementById('serie-1').innerHTML += `
+            <div class="col">
+                <div class="card h-100">
+                    <a class="d-block" href="`+lien[1]+`" target="_blank">
+                        <div class="pt-3 text-center">
+                            <img src="img/`+lien[2]+`" height="50" alt="`+lien[0]+`">
+                        </div>
+                        <div class="card-body">
+                            <div class="font-monospace text-center">`+lien[0]+`</div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            `;            
+        });
+        serie_2_liens.forEach(lien => {
+            document.getElementById('serie-2').innerHTML += `
+            <div class="col">
+                <div class="card h-100">
+                    <a class="d-block" href="`+lien[1]+`" target="_blank">
+                        <div class="pt-3 text-center">
+                            <img src="img/`+lien[2]+`" height="50" alt="`+lien[0]+`">
+                        </div>
+                        <div class="card-body">
+                            <div class="font-monospace text-center">`+lien[0]+`</div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            `;            
+        });        
 
-        <div class="col">
-            <div class="card h-100">
-                <a class="d-block" href="https://pronote.lfitokyo.org/professeur.html" target="_blank">
-                    <div class="pt-3 text-center">
-                        <img src="img/pronote.svg" height="80" alt="Pronote">
-                    </div>
-                    <div class="card-body">
-                        <h5 class="card-title">Pronote</h5>
-                    </div>
-                </a>
-            </div>
-        </div>
 
-        <div class="col">
-            <div class="card h-100">
-                <a class="d-block" href="https://pronote.lfitokyo.org/professeur.html" target="_blank">
-                    <div class="pt-3 text-center">
-                        <img src="img/intranet.svg" height="80" alt="Pronote">
-                    </div>
-                    <div class="card-body">
-                        <h5 class="card-title">Intranet</h5>
-                    </div>
-                </a>
-            </div>
-        </div>
-   
-        <div class="col">
-            <div class="card h-100">
-                <a class="d-block" href="https://pronote.lfitokyo.org/professeur.html" target="_blank">
-                    <div class="pt-3 text-center">
-                        <img src="img/glpi.svg" height="80" alt="Pronote">
-                    </div>
-                    <div class="card-body">
-                        <h5 class="card-title">GLPI</h5>
-                    </div>
-                </a>
-            </div>
-        </div>    
-        
-        <div class="col">
-            <div class="card h-100">
-                <a class="d-block" href="https://pronote.lfitokyo.org/professeur.html" target="_blank">
-                    <div class="pt-3 text-center">
-                        <img src="img/agora-monde.svg" height="80" alt="Pronote">
-                    </div>
-                    <div class="card-body">
-                        <h5 class="card-title">Agora Monde</h5>
-                    </div>
-                </a>
-            </div>
-        </div> 
-
-        <div class="col">
-            <div class="card h-100">
-                <a class="d-block" href="https://pronote.lfitokyo.org/professeur.html" target="_blank">
-                    <div class="pt-3 text-center">
-                        <img src="img/esidoc-bcd.svg" height="80" alt="Pronote">
-                    </div>
-                    <div class="card-body">
-                        <h5 class="card-title">e-sidoc BCD</h5>
-                    </div>
-                </a>
-            </div>
-        </div> 
-
-
-        <div class="col">
-            <div class="card h-100">
-                <a class="d-block" href="https://pronote.lfitokyo.org/professeur.html" target="_blank">
-                    <div class="pt-3 text-center">
-                        <img src="img/esidoc-cdi.svg" height="80" alt="Pronote">
-                    </div>
-                    <div class="card-body">
-                        <h5 class="card-title">e-sidoc CDI</h5>
-                    </div>
-                </a>
-            </div>
-        </div>
-        
-        <div class="col">
-            <div class="card h-100">
-                <a class="d-block" href="https://pronote.lfitokyo.org/professeur.html" target="_blank">
-                    <div class="pt-3 text-center">
-                        <img src="img/eduka.svg" height="80" alt="Pronote">
-                    </div>
-                    <div class="card-body">
-                        <h5 class="card-title">Eduka</h5>
-                    </div>
-                </a>
-            </div>
-        </div>   
-
-        <div class="col">
-            <div class="card h-100">
-                <a class="d-block" href="https://pronote.lfitokyo.org/professeur.html" target="_blank">
-                    <div class="pt-3 text-center">
-                        <img src="img/aefe.svg" height="80" alt="Pronote">
-                    </div>
-                    <div class="card-body">
-                        <h5 class="card-title">AEFE</h5>
-                    </div>
-                </a>
-            </div>
-        </div> 
-        
-        <div class="col">
-            <div class="card h-100">
-                <a class="d-block" href="https://pronote.lfitokyo.org/professeur.html" target="_blank">
-                    <div class="pt-3 text-center">
-                        <img src="img/men.svg" height="80" alt="Pronote">
-                    </div>
-                    <div class="card-body">
-                        <h5 class="card-title">MENJ</h5>
-                    </div>
-                </a>
-            </div>
-        </div>          
-
-        <div class="col">
-            <div class="card h-100">
-                <a class="d-block" href="https://pronote.lfitokyo.org/professeur.html" target="_blank">
-                    <div class="pt-3 text-center">
-                        <img src="img/eduscol.svg" height="80" alt="Pronote">
-                    </div>
-                    <div class="card-body">
-                        <h5 class="card-title">Eduscol</h5>
-                    </div>
-                </a>
-            </div>
-        </div>  
-
-        <div class="col">
-            <div class="card h-100">
-                <a class="d-block" href="https://pronote.lfitokyo.org/professeur.html" target="_blank">
-                    <div class="pt-3 text-center">
-                        <img src="img/canope.svg" height="80" alt="Pronote">
-                    </div>
-                    <div class="card-body">
-                        <h5 class="card-title">Réseau Canopé</h5>
-                    </div>
-                </a>
-            </div>
-        </div>  
-
-        <div class="col">
-            <div class="card h-100">
-                <a class="d-block" href="https://pronote.lfitokyo.org/professeur.html" target="_blank">
-                    <div class="pt-3 text-center">
-                        <img src="img/magistere.svg" height="80" alt="Pronote">
-                    </div>
-                    <div class="card-body">
-                        <h5 class="card-title">m@gistère</h5>
-                    </div>
-                </a>
-            </div>
-        </div>          
+    </script>
 
 </body>
 
