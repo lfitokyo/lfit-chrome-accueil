@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 84.638214 133.93306"
+   id="svg462"
+   sodipodi:docname="Pasted-20230906-181234.svg"
+   width="84.638214"
+   height="133.93306"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs466" />
+  <sodipodi:namedview
+     id="namedview464"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.83515625"
+     inkscape:cx="-175.41628"
+     inkscape:cy="84.415341"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg462" />
+  <g
+     id="g651"
+     transform="translate(-407.78349,-275.67881)">
+    <path
+       fill="#25488c"
+       d="m 421.1212,294.38881 0.08,-18.12 a 0.55,0.55 0 0 1 0.55,-0.55 l 56.33,-0.04 a 0.55,0.55 0 0 1 0.55,0.55 v 18.35 a 0.55,0.55 0 0 1 -0.55,0.55 l -56.41,-0.19 a 0.55,0.55 0 0 1 -0.55,-0.55 z"
+       id="path322" />
+    <path
+       fill="#25488c"
+       d="m 430.8712,369.39881 c 1.62,26.36 32.23,27.73 46.21,10.91 a 0.64,0.63 39.8 0 1 0.91,-0.08 l 13.09,11.35 q 0.4,0.34 0.07,0.75 -12.63,15.85 -33.08,17.14 c -38.55,2.44 -56.18,-26.67 -48.54,-61.38 3.92,-17.82 16.66,-30.08 34.54,-32.52 34.92,-4.77 50.37,22.28 48.14,53.16 q -0.03,0.35 -0.38,0.35 h -60.66 q -0.32,0 -0.3,0.32 z m 0.48,-16.36 38.64,-0.4 a 0.24,0.24 0 0 0 0.24,-0.25 v -0.15 a 19.13,18.59 89.4 0 0 -18.79,-18.93 l -1.94,0.02 a 19.13,18.59 89.4 0 0 -18.39,19.32 v 0.15 a 0.24,0.24 0 0 0 0.24,0.24 z"
+       id="path326" />
+    <path
+       fill="#ffffff"
+       d="m 431.3512,353.03881 a 0.24,0.24 0 0 1 -0.24,-0.24 v -0.15 a 19.13,18.59 89.4 0 1 18.39,-19.32 l 1.94,-0.02 a 19.13,18.59 89.4 0 1 18.79,18.93 v 0.15 a 0.24,0.24 0 0 1 -0.24,0.25 z"
+       id="path332" />
+  </g>
+</svg>
